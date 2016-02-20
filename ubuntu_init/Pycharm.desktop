@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Pycharm
+GenericName=Pycharm5
+Comment=Pycharm3:The Python IDE
+Exec=sh /home/reach/Development/pycharm-5.0.4/bin/pycharm.sh -desktop
+Icon=/home/reach/Development/pycharm-5.0.4/bin/pycharm.png
+Terminal=pycharm
+Categories=Pycharm;
